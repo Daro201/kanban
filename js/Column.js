@@ -1,3 +1,4 @@
+//FUNCTION CREATING  NEW COLUMNS
 function Column(id, name) {
   	var self = this;
 
